@@ -36,6 +36,7 @@ public class ProgramMatriz {
 				}
 			}
 		}
+		
 		System.out.printf("Qt números Negativos: " + cont);
 		
 		// qtde de linha
